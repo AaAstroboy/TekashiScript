@@ -1,4 +1,6 @@
-## Oiii eu sou o Tekashiytb, Programador de Bots Discord.
+<div>
+ <h2>Olá, eu sou o Tekashiytb, programador de Bots Discord</h2>
+</div>
  
 <div> 
   <a href="https://github.com/AaAstroboy/github-readme-stats">
